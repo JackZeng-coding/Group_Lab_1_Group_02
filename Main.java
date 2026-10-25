@@ -4,6 +4,7 @@ public class Main {
 
         Member2.main(args);
 
-        // Member3.main(args);   // Hi!: please remove "//" in your PR
+        // Our team has two members (one member dropped the course),
+        // so Member3 and Member4 are not included.
     }
 }
